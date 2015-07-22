@@ -1,0 +1,574 @@
+Tue Jul 21 22:27:17 PDT 2015
+make[1]: Entering directory `/home/mhucka/vireo/meeting-report'
+pdflatex -interaction=nonstopmode -file-line-error -draftmode report.tex
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def))) (./pdfcomment.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-savepos.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcnumparser.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fc-english.def)))
+(./soulpos.sty)
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 1348.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (./report.aux)
+-- Lines per column: 58 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Underfull \hbox (badness 7722) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 are with the In-sti-tute of Com-puter Sci-ence, Uni-ver-sity of 
+Ro-s-
+
+Underfull \hbox (badness 3965) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 M. Krantz and J. Uh-len-dorf are with the De-part-ment of 
+Bi-ol-
+
+Underfull \hbox (badness 1675) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 ogy, Hum-boldt Uni-ver-sity of Berlin, 10115 Berlin, Ger-many (e
+-mail:
+
+Underfull \hbox (badness 1910) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 Y. H. Chew is with the Cen-tre for Syn-thetic and Sys-tems
+ Bi-ol-
+
+Underfull \hbox (badness 2635) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 A. Zhukova is with the In-sti-tut de Biochimie et Gn-tique
+ Cel-lu-
+
+Underfull \hbox (badness 1540) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 ver-sity of Bor-deaux, France, 33077 Bor-deaux Cedex, France (e-
+mail:
+
+Overfull \vbox (2.69994pt too high) has occurred while \output is active
+Underfull \vbox (badness 1983) has occurred while \output is active [1{/usr/sha
+re/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+LaTeX Warning: Reference `pdfcomment_soul_markup:2' on page 0 undefined on inpu
+t line 177.
+
+[3] [4] <figure1/figure1.pdf, id=131, 517.935pt x 160.09813pt>
+<use figure1/figure1.pdf>
+Underfull \hbox (badness 2142) in paragraph at lines 246--247
+[]\OT1/ptm/m/n/10 As dis-cussed above, SBML does not sup-port multi-
+[5] [6] (./report.bbl [7])
+<photos/group.jpg, id=174, 733.74126pt x 263.98625pt> <use photos/group.jpg>
+Overfull \hbox (177.06128pt too wide) in paragraph at lines 292--292
+ [][] 
+<use photos/group.jpg>
+Overfull \hbox (177.06128pt too wide) in paragraph at lines 292--292
+ [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+[8] [9] (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information)
+pdfTeX warning: \pdfdraftmode enabled, not changing output pdf
+Transcript written on report.log.
+bibtex report
+This is BibTeX, Version 0.99d (TeX Live 2013)
+The top-level auxiliary file: report.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: report.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+pdflatex -interaction=nonstopmode -file-line-error -draftmode report.tex
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def))) (./pdfcomment.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-savepos.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcnumparser.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fc-english.def)))
+(./soulpos.sty)
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 1348.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (./report.aux)
+-- Lines per column: 58 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Underfull \hbox (badness 7722) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 are with the In-sti-tute of Com-puter Sci-ence, Uni-ver-sity of 
+Ro-s-
+
+Underfull \hbox (badness 3965) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 M. Krantz and J. Uh-len-dorf are with the De-part-ment of 
+Bi-ol-
+
+Underfull \hbox (badness 1675) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 ogy, Hum-boldt Uni-ver-sity of Berlin, 10115 Berlin, Ger-many (e
+-mail:
+
+Underfull \hbox (badness 1910) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 Y. H. Chew is with the Cen-tre for Syn-thetic and Sys-tems
+ Bi-ol-
+
+Underfull \hbox (badness 2635) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 A. Zhukova is with the In-sti-tut de Biochimie et Gn-tique
+ Cel-lu-
+
+Underfull \hbox (badness 1540) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 ver-sity of Bor-deaux, France, 33077 Bor-deaux Cedex, France (e-
+mail:
+
+Overfull \vbox (2.69994pt too high) has occurred while \output is active
+Underfull \vbox (badness 1983) has occurred while \output is active [1{/usr/sha
+re/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+LaTeX Warning: Reference `pdfcomment_soul_markup:2' on page 0 undefined on inpu
+t line 177.
+
+[3] [4] <figure1/figure1.pdf, id=131, 517.935pt x 160.09813pt>
+<use figure1/figure1.pdf>
+Underfull \hbox (badness 2142) in paragraph at lines 246--247
+[]\OT1/ptm/m/n/10 As dis-cussed above, SBML does not sup-port multi-
+[5] [6] (./report.bbl [7])
+<photos/group.jpg, id=174, 733.74126pt x 263.98625pt> <use photos/group.jpg>
+Overfull \hbox (177.06128pt too wide) in paragraph at lines 292--292
+ [][] 
+<use photos/group.jpg>
+Overfull \hbox (177.06128pt too wide) in paragraph at lines 292--292
+ [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+[8] [9] (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information)
+pdfTeX warning: \pdfdraftmode enabled, not changing output pdf
+Transcript written on report.log.
+pdflatex -interaction=nonstopmode -file-line-error report.tex
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def))) (./pdfcomment.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-savepos.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcnumparser.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fc-english.def)))
+(./soulpos.sty)
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 1348.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (./report.aux)
+-- Lines per column: 58 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Overfull \hbox (68.20999pt too wide) in paragraph at lines 130--130
+ [] 
+
+Underfull \hbox (badness 7722) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 are with the In-sti-tute of Com-puter Sci-ence, Uni-ver-sity of 
+Ro-s-
+
+Underfull \hbox (badness 3965) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 M. Krantz and J. Uh-len-dorf are with the De-part-ment of 
+Bi-ol-
+
+Underfull \hbox (badness 1675) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 ogy, Hum-boldt Uni-ver-sity of Berlin, 10115 Berlin, Ger-many (e
+-mail:
+
+Underfull \hbox (badness 1910) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 Y. H. Chew is with the Cen-tre for Syn-thetic and Sys-tems
+ Bi-ol-
+
+Underfull \hbox (badness 2635) in paragraph at lines 130--130
+[][][]\OT1/ptm/m/n/8 A. Zhukova is with the In-sti-tut de Biochimie et Gn-tique
+ Cel-lu-
+
+Underfull \hbox (badness 1540) in paragraph at lines 130--130
+\OT1/ptm/m/n/8 ver-sity of Bor-deaux, France, 33077 Bor-deaux Cedex, France (e-
+mail:
+
+Overfull \vbox (2.69994pt too high) has occurred while \output is active
+Underfull \vbox (badness 1983) has occurred while \output is active [1{/usr/sha
+re/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+LaTeX Warning: Reference `pdfcomment_soul_markup:2' on page 0 undefined on inpu
+t line 177.
+
+[3] [4] <figure1/figure1.pdf, id=132, 517.935pt x 160.09813pt>
+<use figure1/figure1.pdf>
+Underfull \hbox (badness 2142) in paragraph at lines 246--247
+[]\OT1/ptm/m/n/10 As dis-cussed above, SBML does not sup-port multi-
+[5] [6 <./figure1/figure1.pdf>] (./report.bbl [7])
+<photos/group.jpg, id=874, 733.74126pt x 263.98625pt> <use photos/group.jpg>
+Overfull \hbox (177.06128pt too wide) in paragraph at lines 292--292
+ [][] 
+<use photos/group.jpg>
+Overfull \hbox (177.06128pt too wide) in paragraph at lines 292--292
+ [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--305
+
+[8 <./photos/group.jpg>] [9] (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
+tmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (9 pages, 1941019 bytes).
+Transcript written on report.log.
+make[1]: Leaving directory `/home/mhucka/vireo/meeting-report'
